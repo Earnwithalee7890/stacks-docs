@@ -4,11 +4,11 @@ Now it's time to start working a bit more with Clarity by adding a new feature t
 
 The written version of the tutorial is below, with a video coming soon.
 
-If you haven't yet, going through the [Clarity Crash Course](https://docs.stacks.co/get-started/clarity-crash-course) is highly recommended. It will give you a high-level introduction to the basics of Clarity.
+If you haven't yet, going through the [Clarity Crash Course](../../../build/get-started/clarity-crash-course.md) is highly recommended. It will give you a high-level introduction to the basics of Clarity.
 
 Here's we'll assume basic familiarity with Clarity. You should be able to follow along with what we're doing either way, but it will make more sense if you've already familiarized yourself with the basics of Clarity.
 
-In addition, you'll notice that we are utilizing sBTC here. If you aren't familiar with sBTC yet, go ahead and take a look at the [Learn sBTC](https://docs.stacks.co/learn/sbtc) section of the docs to get a handle on what it is and how it works.
+In addition, you'll notice that we are utilizing sBTC here. If you aren't familiar with sBTC yet, go ahead and take a look at the [Learn sBTC](../../../learn/sbtc/README.md) section of the docs to get a handle on what it is and how it works.
 
 You can also refer to the [sBTC Integration](https://docs.stacks.co/clarinet-integrations/sbtc-integration) guide to see how to integrate sBTC into your projects for more background. This setup is taken care of for you in this particular Platform template.
 
