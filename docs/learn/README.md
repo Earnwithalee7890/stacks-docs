@@ -20,12 +20,17 @@ layout:
 <div data-with-frame="true"><figure><picture><source srcset=".gitbook/assets/bitcoin-stacks.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/bitcoin-stacks-dark.png" alt=""></picture><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-For the official Stacks whitepaper: [https://stacks-network.github.io/stacks/stacks.pdf](https://stacks-network.github.io/stacks/stacks.pdf)
+**Official Resource**: Read the [Stacks Whitepaper](https://stacks-network.github.io/stacks/stacks.pdf) for a deep dive.
 {% endhint %}
 
 ### Stacks: The TL;DR
 
-Stacks activates the Bitcoin economy. Bitcoin is the most adopted, most valuable, and most decentralized cryptocurrency. The Stacks L2 enables fast, cheap BTC and full-featured smart contracts on the L2 without modifying Bitcoin itself. Users and developers can use BTC in their apps and pay gas fees with BTC. All transactions on Stacks L2 are secured by Bitcoin L1 with 100% finality, enabling you to build apps and digital assets that are integrated&#x20;with Bitcoin security.
+Stacks activates the Bitcoin economy. As the most adopted and decentralized cryptocurrency, Bitcoin is the ideal settlement layer. Stacks L2 enables fast, cheap BTC transactions and full-featured smart contracts without modifying Bitcoin itself.
+
+**Key Benefits:**
+- **Bitcoin Security**: Transactions are secured by Bitcoin L1 with 100% finality.
+- **Bitcoin Asset**: Use BTC in apps and pay gas fees with BTC.
+- **Bitcoin Write**: Write to the Bitcoin chain directly from Stacks.
 
 The Stacks layer for smart contracts has the following innovations that make it unique:
 
