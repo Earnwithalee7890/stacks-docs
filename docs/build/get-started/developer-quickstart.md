@@ -837,9 +837,9 @@ Now that you have the basics down, here are some ways to continue your Stacks de
 
 **Learn More About Clarity**
 
-* [**Clarity Crash Course**](https://docs.stacks.co/docs/clarity-crash-course): Quick introduction to Clarity concepts
+* [**Clarity Crash Course**](clarity-crash-course.md): Quick introduction to Clarity concepts
 * [**Clarity Book**](https://book.clarity-lang.org/): Comprehensive guide to Clarity development
-* [**Clarity Reference**](https://docs.stacks.co/docs/clarity): Complete documentation of Clarity functions
+* [**Clarity Reference**](../../reference/clarity/README.md): Complete documentation of Clarity functions
 
 **Development Tools**
 
