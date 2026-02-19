@@ -1,34 +1,38 @@
-[![License](https://img.shields.io/github/license/stacks-network/docs)](./LICENSE)
+[![License](https://img.shields.io/badge/license-CC0-blue.svg)](./LICENSE)
 
 # The Official Stacks Docs
 
-The Stacks documentation serves as the comprehensive resource for understanding and building on Stacks, a Bitcoin Layer 2 that enables fast, low-cost transactions and full-featured smart contracts secured by Bitcoin. These docs guide three main audiences: developers looking to build apps and deploy smart contracts with tools like Clarity and Stacks.js; operators running nodes, miners, and signers to support network infrastructure; and learners seeking to understand how Stacks activates the Bitcoin economy through its unique technical architecture. With sections covering everything from beginner quickstarts to advanced technical references, the docs aim to empower the global builder community to create a Bitcoin-native onchain economy.
+The Stacks documentation serves as the comprehensive resource for understanding and building on Stacks, a Bitcoin Layer 2 that enables fast, low-cost transactions and full-featured smart contracts secured by Bitcoin.
 
-## Contribute to the Stacks Docs
+## Table of Contents
 
-The Stacks docs are built using GitBook with a two-way sync with the [docs repository on GitHub](https://github.com/stacks-network/docs). 
+- [Introduction](#the-official-stacks-docs)
+- [Documentation Sections](#documentation-sections)
+- [How to Contribute](#how-to-contribute)
+- [License](#license)
 
-Because of this two-way sync, you can contribute to the documentation in one of two ways:
+## Documentation Sections
 
-1. You can fork the docs repo, add your change, and then create a PR to be merged into the main docs
-2. You can create an issue, and someone that works on the docs will take a look and implement it if it is a necessary change
+The documentation is organized into the following main sections:
 
-All of the content files are markdown files. The structure and layout of the docs are based on Gitbook's Spaces. Each Space represents a top-level navigation section of the public docs website.
+- **[Learn](docs/learn/README.md)**: Technical explainers and concept breakdowns.
+- **[Build](docs/build/README.md)**: Developer quickstarts, guides, and integration examples.
+- **[Operate](docs/operate/README.md)**: Guides for running nodes, miners, and signers.
+- **[Reference](docs/reference/README.md)**: API references, specifications, and tooling.
+- **[Tutorials](docs/tutorials/README.md)**: End-to-end learning walkthroughs.
 
-Below are the current main Spaces that make up the docs:
+## How to Contribute
 
-- **Learn**: Technical explainers and concept breakdowns on different aspects of Stacks.
-- **Build**: Developer quickstarts, How-To guides, integration examples, Clarinet guides, Stacks.js guides, etc.
-- **Operate**: Setup and configuration guides on running Stacks nodes, miners, and signers.
-- **Reference**: Clarity language details, protocol specs, SDK & APIs definitions, and other tooling references.
-- **Tutorials**: End-to-end learning walkthroughs on building complete applications with Stacks. 
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) for more details.
 
-Besides the actual content, each Space consists of:
+The Stacks docs are built using GitBook. You can contribute by:
 
-- `.gitbook`: Folder for assets such as images, pdfs, etc.
-- `README.md`: Acts as the landing page of the Space's section.
-- `SUMMARY.md`: Table of contents
+1. Forking the repository
+2. Creating a branch
+3. Submitting a Pull Request
 
-What kinds of changes are we looking for?
+If you see a typo, a missing guide, or an unclear explanation, please [open an issue](https://github.com/Earnwithalee7890/stacks-docs/issues/new).
 
-If you see a typo, a missing guide or tutorial, an unclear explanation, or really anything else you think could improve the quality of the documentation, please feel free to open an issue or create a pull request.
+## License
+
+This project is licensed under the CC0 1.0 Universal License - see the [LICENSE](LICENSE) file for details.
